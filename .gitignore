@@ -1,0 +1,11 @@
+_collect
+
+*/_bak
+*/download
+*/doc
+*/toc
+*/info
+
+*/*.pdf
+*/*.docx
+*/*.xmind
